@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #059669;
+  --secondary: #D97706;
+  --accent: #DC2626;
+}
+
+body {
+  font-family: Open Sans, sans-serif, sans-serif;
+}
